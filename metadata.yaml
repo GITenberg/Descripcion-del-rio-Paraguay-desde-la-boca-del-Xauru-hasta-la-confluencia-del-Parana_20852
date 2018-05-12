@@ -1,0 +1,29 @@
+_repo: Descripcion-del-rio-Paraguay-desde-la-boca-del-Xauru-hasta-la-confluencia-del-Parana_20852
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quiroga, José
+    alias: Quiroga, Jose
+    deathdate: 1784
+    gutenberg_agent_id: '9565'
+    url: http://www.gutenberg.org/2009/agents/9565
+description: ''
+gutenberg_bookshelf: Argentina
+gutenberg_issued: '2007-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20852'
+  lccn: 05041837
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F2801'
+- !lcsh 'Paraguay River'
+title: Descripcion del rio Paraguay, desde la boca del Xauru hasta la confluencia
+  del Parana
+url: http://www.gutenberg.org/ebooks/20852
